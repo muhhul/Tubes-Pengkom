@@ -18,7 +18,6 @@ red = fg('red_3a')
 green = fg('green_1')
 gold = fg('light_goldenrod_3')
 
-
 kartu=modultubes.membuatkartu()
 
 cekmenu=True
